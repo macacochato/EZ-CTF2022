@@ -23,7 +23,6 @@ The reality is that we cannot predict how people will understand our challenges,
 
 So what is going on here? I am a retard...hear me out, I grabbed a photo of the movie character **Biff Tannen** and just patched it with his **ID** in the hopes people would make the connection **Biff** + **ID** = **Bif_id Cipher** ....la la la... I know I know... too much of a stretch there, in my mind this worked...the issue is that most people were super confused and dismissed the image.
 
-![[McFly.jpg|300]]
 
 ## Skyline
 
